@@ -1,0 +1,1 @@
+function embed(title, desc) { return { embeds: [{ title, description: desc }] }; } module.exports = { embed };
